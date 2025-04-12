@@ -1,2 +1,1 @@
-gh repo clone mongodb/fb-me.ongo-go-driver
-#[=÷?>$!@[((!
+gh repo clone mongodb/mongo-go-driver
